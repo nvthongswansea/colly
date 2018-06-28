@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/antchfx/htmlquery"
-	"github.com/gocolly/colly"
+	"github.com/nvthongswansea/colly"
 )
 
 // Borrowed from http://infohost.nmt.edu/tcc/help/pubs/xhtml/example.html

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/gocolly/colly"
+	"github.com/nvthongswansea/colly"
 )
 
 // Storage is the interface of the queue's storage backend
